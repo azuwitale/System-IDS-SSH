@@ -1,0 +1,111 @@
+2025-06-24 02:55:40.330025 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-06-24 02:56:56.740424 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-24 03:03:31.490331 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-24 03:05:50.740687 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-06-24 20:29:30.207904 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-24 13:31:10.067127 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-24 13:32:18.218011 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-06-30 03:54:56.547995 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-06-30 03:57:07.630874 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 03:57:11.131520 - Deteksi brute-force lambat dari IP 127.0.0.1 sebanyak 9x dalam 1 jam
+2025-06-30 03:57:13.881293 - Deteksi brute-force lambat dari IP 127.0.0.1 sebanyak 10x dalam 1 jam
+2025-06-30 04:00:19.131025 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:01:22.380993 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:05:37.881131 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:06:53.630627 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:22:46.631170 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:23:19.880718 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:26:51.381409 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-06-30 04:28:27.380912 - Login dengan user tidak valid dari IP ::1.
+2025-06-30 04:33:57.381251 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 04:34:08.880722 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 04:40:54.380862 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 04:44:46.255247 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-06-30 04:45:27.130857 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-06-30 04:46:50.630845 - Brute-force dari IP ::1 sebanyak 5x
+2025-06-30 05:12:34.631128 - Login dengan user tidak valid dari IP ::1.
+2025-06-30 05:21:56.131846 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 05:22:15.381315 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 05:22:38.380890 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 05:22:57.380888 - Slow brute-force terdeteksi dari IP ::1.
+2025-06-30 00:36:37.760143 - Login dengan user tidak valid dari IP 192.168.1.14.
+2025-06-30 00:37:54.260315 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-06-30 00:37:55.344239 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-06-30 00:37:56.162440 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-06-30 00:37:57.016931 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-01 03:40:56.347686 - Login ke user root terdeteksi dari IP ::1.
+2025-07-07 20:09:10.363554 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-07 20:10:02.983110 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-07 20:11:12.822402 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-07-07 20:12:18.613135 - Login dengan user tidak valid dari IP ::1.
+2025-07-07 20:14:55.863626 - Login dengan user tidak valid dari IP ::1.
+2025-07-07 20:18:36.863557 - Slow brute-force terdeteksi dari IP ::1.
+2025-07-07 20:18:56.113156 - Slow brute-force terdeteksi dari IP ::1.
+2025-07-07 20:19:15.863329 - Slow brute-force terdeteksi dari IP ::1.
+2025-07-07 20:22:16.364104 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:22:20.795630 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:22:22.841950 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:22:23.731891 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:36:52.613432 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:36:54.484210 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:36:55.507321 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:36:57.068350 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:37:04.113217 - Distributed brute-force terdeteksi dari IP 172.17.0.3.
+2025-07-07 20:37:05.440108 - Distributed brute-force terdeteksi dari IP 172.17.0.3.
+2025-07-07 20:37:06.463792 - Distributed brute-force terdeteksi dari IP 172.17.0.3.
+2025-07-07 20:37:09.525351 - Distributed brute-force terdeteksi dari IP 172.17.0.3.
+2025-07-07 20:46:47.363564 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:46:49.234034 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:46:50.256107 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:46:52.529975 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:48:20.979971 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:48:22.924413 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 20:50:17.033223 - Login ke user root terdeteksi dari IP ::1.
+2025-07-07 21:18:12.113708 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-07 21:20:31.113569 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-07-07 21:21:43.864486 - Login dengan user tidak valid dari IP ::1.
+2025-07-07 21:24:16.156274 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 21:26:17.113163 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 21:38:18.113401 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 21:40:32.612956 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 21:54:24.363153 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 21:54:25.359930 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-07 21:55:15.127193 - Login ke user root terdeteksi dari IP ::1.
+2025-07-07 22:05:34.613284 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 22:13:36.363700 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 22:17:42.113847 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-07 22:22:44.363462 - Slow brute-force terdeteksi dari IP ::1.
+2025-07-08 16:55:25.350934 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-07-08 16:56:02.255470 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-08 16:57:02.505736 - Login dengan user tidak valid dari IP ::1.
+2025-07-08 16:58:05.755612 - Login dengan user tidak valid dari IP ::1.
+2025-07-08 17:00:00.505930 - Login dengan user tidak valid dari IP ::1.
+2025-07-08 17:00:49.005513 - Login dengan user tidak valid dari IP ::1.
+2025-07-08 17:02:48.755953 - Slow brute-force terdeteksi dari IP ::1.
+2025-07-08 17:03:51.960335 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-08 17:03:52.769231 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-08 17:04:35.755762 - Distributed brute-force terdeteksi dari IP 172.17.0.2.
+2025-07-08 17:04:36.605556 - Distributed brute-force terdeteksi dari IP 172.17.0.2.
+2025-07-08 17:04:38.083900 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-08 17:04:38.835230 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-08 17:04:40.044748 - Distributed brute-force terdeteksi dari IP 172.17.0.2.
+2025-07-08 17:04:40.827719 - Distributed brute-force terdeteksi dari IP 172.17.0.2.
+2025-07-08 17:05:20.840846 - Login ke user root terdeteksi dari IP ::1.
+2025-07-08 19:18:30.521096 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-08 17:07:09.291833 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-08 17:09:54.960796 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-07-08 17:10:53.514854 - Login ke user root terdeteksi dari IP ::1.
+2025-07-08 17:12:28.542452 - Login dengan user tidak valid dari IP ::1.
+2025-07-08 17:13:23.155650 - Distributed brute-force terdeteksi dari IP 172.17.0.2.
+2025-07-08 17:13:24.162164 - Distributed brute-force terdeteksi dari IP 172.17.0.2.
+2025-07-12 14:13:31.896710 - Brute-force dari IP 127.0.0.1 sebanyak 5x
+2025-07-12 14:15:57.586871 - Login mencurigakan: IP 127.0.0.1 berhasil login setelah beberapa gagal sebelumnya.
+2025-07-12 14:17:25.396484 - Login dengan user tidak valid dari IP ::1.
+2025-07-12 14:21:58.146577 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-12 14:24:42.396593 - Brute-force dari IP ::1 sebanyak 5x
+2025-07-12 14:26:40.896730 - Login dengan user tidak valid dari IP ::1.
+2025-07-12 14:36:35.896517 - Slow brute-force terdeteksi dari IP ::1.
+2025-07-12 14:37:44.896392 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-12 14:37:45.920986 - Distributed brute-force terdeteksi dari IP 172.17.0.4.
+2025-07-12 14:38:48.146542 - Distributed brute-force terdeteksi dari IP ::1.
+2025-07-12 14:38:52.227664 - Login ke user root terdeteksi dari IP ::1.
